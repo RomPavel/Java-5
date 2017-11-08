@@ -1,0 +1,1 @@
+public enum compareBy { numinator, denominator }
